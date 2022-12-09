@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jennifer</h1>
 <h3 align="center">A passionate fullstack Web Developer</h3>
 
-- 🔭 I’m currently working on **TECHO ONG**
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 📫 How to reach me **acuarioyeni@hotmail.com**
+- 📫 How to reach me **regalado.jen@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
