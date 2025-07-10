@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jenn</h1>
 <h3 align="center">🌱 Frontend Web Developer - Digital Interfaces</h3>
 
-- 👨‍💻Connect with me: [https://www.linkedin.com/in/jennregalado/](https://www.linkedin.com/in/jennregalado/)
 
-- 📫 How to reach me **regalado.jen@outlook.com**
+- 👨‍💻📫 How to reach me **regalado.jen@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
